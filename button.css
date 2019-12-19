@@ -1,0 +1,41 @@
+.btn-red{
+	background-color: #9B2325;
+	padding: 15px 20px;
+	border-radius: 4px;
+	color: white;
+	font-weight: bold;
+	margin-bottom: 40px;
+}
+
+.btn-black{
+	background-color: black;
+	padding: 15px 20px;
+	border-radius: 4px;
+	color: white;
+	font-weight: bold;
+	margin-top: 40px;
+}
+
+.btn-black:hover{
+	background-color: #CFCFCF;
+	color: #9B2325;
+}
+
+.btn-red:hover{
+	background-color: black;
+	color: #CFCFCF ;
+}
+
+.lign{
+	font-family: 'Roboto', sans-serif;
+	text-decoration: none;
+	color: white;
+	font-weight: 600;
+	font-size: 16px;
+	transition: color 0.3s ease;
+	margin: 30px;
+}
+
+.lign:hover{
+	color:#CCCCCC;
+}
